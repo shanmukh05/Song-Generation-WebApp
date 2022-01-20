@@ -2,6 +2,7 @@
 Generates lyrics with given constraints.
 
 # [Go to the app :)](https://song-generation.herokuapp.com/)
+**may take few minutes to load**
 
 <img src = "https://github.com/shanmukh05/Song-Generation-WebApp/blob/main/static/images/demo.png" width="600" height = "350">
 
